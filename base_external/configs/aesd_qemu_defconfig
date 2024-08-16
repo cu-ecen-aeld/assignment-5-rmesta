@@ -2,7 +2,7 @@
 BR2_aarch64=y
 BR2_cortex_a53=y
 
-# AELD: Assignment 4 (Part 2)
+# AELD: Assignment 5 (Part 2)
 BR2_PACKAGE_AESD_ASSIGNMENTS=y
 BR2_DL_DIR="${HOME}/dl"
 BR2_PACKAGE_DROPBEAR=y
